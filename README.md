@@ -6,7 +6,7 @@
 
 
 
-STEP 1: 
+STEP 1: clone 
 
 
 
